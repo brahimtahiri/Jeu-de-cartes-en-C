@@ -1,6 +1,6 @@
 /**
  * =====================================================================
- * TP n°5 - Jeu de cartes en C (Processus et Communication via Pipes)
+ * Jeu de cartes en C
  * 
  * Réalisé par : Brahim TAHIRI et Ian Aouchiche
  * Projet disponible sur GitHub : https://github.com/brahimtahiri/Jeu-de-cartes-en-C
